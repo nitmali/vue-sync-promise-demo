@@ -6,7 +6,7 @@
 ## 使用方法
 
 * 将 [sync.js](src/directive/sync/sync.js)插件放入项目
-* 在main.js中引入插件
+* 在main.js中引入自定义指令
 
 ```javascript
 import sync from './directive/sync/sync'
